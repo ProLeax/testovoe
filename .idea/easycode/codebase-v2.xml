@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/controllers/RoleController.php;C:/OSPanel/domains/testovoe/controllers/UserController.php;C:/OSPanel/domains/testovoe/models/Database.php;C:/OSPanel/domains/testovoe/models/Role.php;C:/OSPanel/domains/testovoe/models/User.php;C:/OSPanel/domains/testovoe/models/UserRole.php;C:/OSPanel/domains/testovoe/views/role.php;C:/OSPanel/domains/testovoe/views/role_form.php;C:/OSPanel/domains/testovoe/views/role_list.php;C:/OSPanel/domains/testovoe/views/user.php;C:/OSPanel/domains/testovoe/views/user_form.php;C:/OSPanel/domains/testovoe/views/user_list.php;C:/OSPanel/domains/testovoe/index.php;C:/OSPanel/domains/testovoe/user.php" />
+  </component>
+</project>
